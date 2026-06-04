@@ -669,3 +669,6 @@ respond_ne(...);
 | 汇聚等待增加延迟 | 早返机制：任一方 BLOCK 立即应答 |
 | LLM 误拦截正常短信 | 默认策略偏保守；运营可调整 |
 | MergeContext 内存泄漏 | 复用 `cleanup_expired()` 超时清理机制 |
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0MDAyMzE3NjFdfQ==
+-->
